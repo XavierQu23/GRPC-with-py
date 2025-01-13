@@ -107,6 +107,12 @@ The gRPC client connects to the server and sends a request with the name. It the
 2. It then uses a stub of the service (GreetingServiceStub) to call the SayHello method.
 3. The client sends a request message with the name Alice, and when it receives the response, it prints it.
 
+# RESULTS
+![image](https://github.com/user-attachments/assets/05c79753-faba-45e5-8671-dbdccaf767f7)
+![image](https://github.com/user-attachments/assets/404f6a59-af9a-4739-ac17-60941ab64a80)
+
+
+
 
 
 
